@@ -32,7 +32,7 @@ pyqt6-sip==13.10.0
     # via pyqt6
 rapidfuzz==3.10.0
     # via levenshtein
-requests==2.32.4
+requests==2.33.0
     # via pyacoustid
 unidecode==1.4.0
     # via -r requirements.in
